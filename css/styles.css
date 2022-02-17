@@ -6,11 +6,11 @@
 
 body{
     /* overflow: hidden; */
-    scroll-snap-type: proximity;
+    
 }
 
 .bg{
-    height: 100vh;
+    
     width: 100%;
     background-repeat: no-repeat;
     position: relative;
